@@ -1,3 +1,5 @@
+<p align="center">
+
 
 ![b5303d492d120a574cafff6fc96f8d3f.png](https://img.in.th/images/b5303d492d120a574cafff6fc96f8d3f.png)
 
@@ -32,4 +34,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+ </p> 
+  
 ![](https://komarev.com/ghpvc/?username=Byenior&color=blueviolet)
