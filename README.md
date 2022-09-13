@@ -7,7 +7,7 @@
 <!--https://readme-typing-svg.demolab.com/demo/ -->
 
 <!-- ทดลองใส่งู้ -->
-
+![](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
 
 <!-- ทดลองใส่งู้ -->
 
