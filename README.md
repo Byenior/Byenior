@@ -7,7 +7,9 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Byenior&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
-[[https://spotify-github-profile.vercel.app/api/view.svg?uid=313dbdf6dyojmpr7zvisqmao6fiq&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=313dbdf6dyojmpr7zvisqmao6fiq&cover_image=true&theme=novatorem&bar_color=a700b3&bar_color_cover=false)]]
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=313dbdf6dyojmpr7zvisqmao6fiq&cover_image=true&theme=novatorem&bar_color=8100c7&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=313dbdf6dyojmpr7zvisqmao6fiq&redirect=true)
+
 
 
 Here are some ideas to get you started:
