@@ -1,8 +1,8 @@
-<p align="center">
+
 
 
 ![b5303d492d120a574cafff6fc96f8d3f.png](https://img.in.th/images/b5303d492d120a574cafff6fc96f8d3f.png)
-</p>
+
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=700&color=6800F7&width=435&lines=BRO%2C+it's+tips;press+'Windows%2BR'+;'type+%22cmd%22+and+enter';'type+%22code+index.html%22+';'and+enter';'then+type+%22+!+%22+and+enter';'yeah+you+start+new+project';'again...';+HAVE+FUN+%3A3;+)](https://git.io/typing-svg)
 
@@ -21,7 +21,7 @@
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=313dbdf6dyojmpr7zvisqmao6fiq&cover_image=true&theme=novatorem&bar_color=8100c7&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=313dbdf6dyojmpr7zvisqmao6fiq&redirect=true)
 
 
-<p align="center">
+
 
 Here are some ideas to get you started:
 
@@ -34,6 +34,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
- </p> 
+
   
 ![](https://komarev.com/ghpvc/?username=Byenior&color=blueviolet)
