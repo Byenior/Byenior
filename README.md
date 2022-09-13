@@ -5,8 +5,8 @@
 
 
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Byenior)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/apiByenior=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
@@ -26,3 +26,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=jwenjian.visitor-badge)
