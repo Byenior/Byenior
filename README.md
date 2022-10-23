@@ -1,5 +1,5 @@
 
-![b5303d492d120a574cafff6fc96f8d3f.png](https://img.in.th/images/b5303d492d120a574cafff6fc96f8d3f.png)
+
 
           
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=700&color=6800F7&width=435&lines=BRO%2C+it's+tips;press+'Windows%2BR'+;'type+%22cmd%22+and+enter';'type+%22code+index.html%22+';'and+enter';'then+type+%22+!+%22+and+enter';'yeah+you+start+new+project';'again...';+HAVE+FUN+%3A3;+)](https://git.io/typing-svg)
